@@ -49,7 +49,3 @@ Because searching through videos is old school. This is the future—ask, and th
 ## 🌟 Credits & Inspiration
 - Built with [Streamlit](https://streamlit.io/), [LangChain](https://python.langchain.com/), and [Google Gemini](https://ai.google.dev/)
 - Inspired by the dream of making video knowledge instantly accessible
-
----
-
-The power of video, unlocked by AI. If you love it, star the repo and share your experience!
